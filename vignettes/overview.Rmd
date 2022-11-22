@@ -18,7 +18,7 @@ output:
 [_Bioconductor_][] is a successful open-source project for the
 statistical analysis and comprehension of high throughput genomic
 data. _Bioconductor_ is based on the _R_ programming language. It
-consists of more than 1600 [_R_ packages][] contributed by more than
+consists of more than 2000 [_R_ packages][] contributed by more than
 1000 maintainers world-wide. _Bioconductor_ packages are downloaded to 1/2
 million IP addresses annually. There are more than 29,000
 [PubMedCentral citations][] to _Bioconductor_. _Bioconductor_ has an
